@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pat",
+				"$path〔variable〕"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"use",
+				"$user_id〔variable〕"
+			],
+			[
+				"Pro",
+				"Propertie"
+			],
+			[
+				"ha",
+				"hasMany"
+			],
+			[
+				"App",
+				"App\\User::properties"
+			],
+			[
+				"has",
+				"hasMany〔function〕"
+			],
+			[
+				"Rout",
+				"Route::get"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"be",
+				"belongsTo〔function〕"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			],
+			[
+				"P",
+				"Properties"
+			],
+			[
+				"va",
+				"valid"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"a",
+				"asset"
+			],
+			[
+				"S",
+				"Schema"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 212.0,
+		"last_filter": "Insta",
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/home/jlopez25/Documentos/Proyectos/php/galib",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Controllers/Auth",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/partials",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/properties",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/storage"
+	],
+	"file_history":
+	[
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Controllers/PropertieController.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Propertie.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/routes.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/partials/form.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/properties/index.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/fundation.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/User.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/articulos.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/properties/show.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/vendor/nesbot/carbon/src/Carbon/Carbon.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Middleware/Authenticate.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Kernel.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/galib.sublime-project",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/layouts/master.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/lang/es/validation.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/config/app.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/lang/es/pagination.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/lang/es/auth.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/lang/es/passwords.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations/2017_08_12_133713_update_properties_table.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations/2017_08_12_133015_update_properties_table.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations/2017_08_12_131807_update_properties_table.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations/2017_08_10_002615_create_properties_table.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/create.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Controllers/Auth/AuthController.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/index.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations/2017_08_10_085501_update_properties_table.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations/2017_08_10_084801_update_properties_table.php.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/usuarios/list_users.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/show.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/users/list_users.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Providers/RouteServiceProvider.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Providers/AuthServiceProvider.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Middleware/EncryptCookies.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Middleware/VerifyCsrfToken.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/app/Http/Controllers/Auth/PasswordController.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/auth/register.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/auth/login.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/lista_usuarios.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/price.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/public/index.html",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/resources/views/welcome.blade.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/config/database.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/.env",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/database/seeds/DatabaseSeeder.php",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/Procfile",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/package.json",
+		"/home/jlopez25/Documentos/Proyectos/php/galib/composer.json",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/fastnew/FQL.java",
+		"/media/jlopez25/curso_json/archivos_base_json/Ejercicio Comparación/ComparacionJsonXML.XML",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/searchblancasa.jsp",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/notrecord.jsp",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/ministerioa.jsp",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/fastnew/FastAmarillas.java",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/fastnew/FastBlancas.java",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/gpphome.jsp",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/consulta.jsp",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/rif.jsp",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/searchamarillasa.jsp",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/TRANS_SID_RAC_SPC.txt",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/FastTest.java",
+		"/home/jlopez25/Documentos/Proyectos/java/servicios/TRANS_SID_RAC_BODY.txt",
+		"/var/www/html/services/userServices.xml",
+		"/home/jlopez25/Documentos/Proyectos/Web/wordpress-heroku/wp-config.php",
+		"/home/jlopez25/Documentos/Proyectos/php/wordpress-heroku/wp-settings.php",
+		"/home/jlopez25/Documentos/Proyectos/php/wordpress-heroku/wp-links-opml.php",
+		"/home/jlopez25/Documentos/Proyectos/php/wordpress-heroku/wp-config.php",
+		"/home/jlopez25/Documentos/Proyectos/php/wordpress-heroku/license.txt",
+		"/home/jlopez25/Documentos/Proyectos/php/wordpress-heroku/index.php",
+		"/home/jlopez25/Documentos/Proyectos/php/wordpress-heroku/.htaccess",
+		"/home/jlopez25/Documentos/Proyectos/php/wordpress-heroku/readme.html",
+		"/var/www/html/wordpress/wp-config-sample.php",
+		"/home/jlopez25/Documentos/Proyectos/Web/wordpress/wp-config.php",
+		"/home/jlopez25/Documentos/Proyectos/ionic/tplBlankV2/package.json",
+		"/home/jlopez25/Documentos/Proyectos/ionic/tplBlankV2/ionic.config.json",
+		"/home/jlopez25/Documentos/Proyectos/ionic/tplBlankV2/config.xml",
+		"/home/jlopez25/Documentos/Proyectos/ionic/tplBlankV2/src/app/app.component.ts",
+		"/home/jlopez25/Documentos/Proyectos/ionic/tplBlankV2/src/app/app.module.ts",
+		"/home/jlopez25/Documentos/Proyectos/ionic/todo/config.xml",
+		"/home/jlopez25/Documentos/Proyectos/ionic/todo/www/js/app.js",
+		"/home/jlopez25/Documentos/Proyectos/ionic/todo/www/index.html",
+		"/home/jlopez25/Documentos/Proyectos/ionic/todo/package.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user_id",
+			"redirectPath",
+			"App",
+			"scope"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "galib.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 437.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
